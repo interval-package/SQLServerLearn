@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pro_01",
+    "\\Pro_02"
   ],
-  "SelectedNode": "\\AlterTable.sql",
+  "SelectedNode": "\\Pro_01\\DispInfo.sql",
   "PreviewInSolutionExplorer": false
 }
