@@ -24,3 +24,7 @@ alter schema dbo
 transfer pro_1.RentHis_Detail
 
 -- UserInfo, BookInfo, BookType, RentHis, Worker, RentHis_Detail
+
+
+alter table UserInfo
+alter column CardId char(9);

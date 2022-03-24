@@ -33,3 +33,13 @@ primary key (sno, cno)
 )
 
 select * from Student
+select * from Teacher
+
+alter table Score
+add constraint useless check(degree>0);
+
+alter table Score
+drop constraint useless;
+
+SELECT * FROM sys.objects
+WHERE type_desc LIKE '%CONSTRAINT'
