@@ -30,3 +30,4 @@ where sdept = '»á¼ÆÏµ'
 
 select * from ##temp
 drop table ##temp
+
